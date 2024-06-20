@@ -1,6 +1,5 @@
 <h1>Console Tricks (Truques de Console em JavaScript)</h1>
 <p>Este projeto demonstra diversos truques e recursos úteis do console do navegador em JavaScript. Ele inclui exemplos de como usar o console para exibir mensagens de diferentes tipos, agrupar informações, contar ocorrências, medir o tempo de execução de tarefas e visualizar elementos do DOM em formato de tabela.</p>
-<br/>
 
 <h4>Funcionalidades</h4>
 <li><code>console.log("hello");</code> // Log simples: Exibe uma mensagem básica no console.</li>
